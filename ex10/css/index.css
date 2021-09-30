@@ -1,0 +1,102 @@
+#wrapper {
+    margin-top: -22px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}
+
+#left {
+    float: left;
+    background-color: black;
+    width: 500px;
+    height: 770px;
+}
+
+#right {
+    background-image: url(https://image.ibb.co/cO9Lxq/login-bg.jpg);
+    margin-left: 400px;
+    height: 770px;
+}
+
+.logo {
+    padding: 50px;
+}
+
+#left form {
+    padding: 50px;
+}
+
+#left div label {
+    display: flex;
+    color: white;
+}
+
+#left form div {
+    padding-bottom: 15px;
+}
+
+.text-input {
+    width: 360px;
+    height: 30px;
+    background-color: black;
+}
+
+#links {
+    padding-bottom: 15px;
+    margin-left: -30px;
+}
+
+#links a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.hr-bar {
+    width: 360px;
+    margin-left: 49px;
+}
+
+.primary-btn {
+    background-color: blue;
+    width: 368px;
+    margin-top: 10px;
+    padding: 8px;
+    color: white;
+}
+
+#showcase {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    font-size: 17px;
+}
+
+.secondary-btn {
+    background-color: gray;
+    width: 360px;
+    display: block;
+    margin-left: 49px;
+    height: 27px;
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+#main-footer {
+    color: white;
+    margin-top: 100px;
+    margin-left: 64px;
+}
+
+#main-footer div {
+    margin-left: 72px;
+}
+
+#main-footer a {
+    color: white;
+}
